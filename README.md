@@ -8,7 +8,7 @@
    * [Tutorial (CLI-Only)](#tutorial-cli-only)
 * [License](#license)
 
-# NVIDIA AI Workbench: Introduction
+# NVIDIA AI Workbench: Introduction [![Open In AI Workbench](https://img.shields.io/badge/Open_In-AI_Workbench-76B900)](https://nvidia.github.io/workbench-example-llama3-finetune/clone_me.html)
 
 <!-- Banner Image -->
 <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2024/07/rag-representation.jpg" width="100%">
